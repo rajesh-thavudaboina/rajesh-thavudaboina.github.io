@@ -47,7 +47,7 @@ h2 {
     font-weight:900;
     font-size:30px;
      padding:20px 20px 10px 20px;
-     text-transform:capitalize;
+     text-transform:capitalize !important;
 }
 h3 {
     line-height:30px;
